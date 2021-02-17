@@ -72,14 +72,14 @@ Deployed on [Netlify](https://dream-time-news-user.netlify.app/)
 * [Stripe](https://stripe.com/docs)
 * [React-Redux Documentation](https://react-redux.js.org/)
 
-# Future Improvments
+# Future Improvements
 
 * Implements premium contents for subscribers
 * Implements better UI and UX design
 * Implements Login/Logout features for subscribers
 * Implements a feature that subscribers can read articles based on their location
 
-# Author
+# Authors
 [Rithreaksa Khourn](https://github.com/rithreaksa)
 
 [Ann Flismark](https://github.com/FlisAnn)
